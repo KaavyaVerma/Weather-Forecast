@@ -1,4 +1,5 @@
 # Weather-Forecast
+"# Weather_Forecast_Prediction " Used IoT device like DHT22, BMP180 and Arduino to collect the data pertaining to the weather like temperature, humidity, pressure for three days and then use this data to run a deep learning algorithm RNN that will help us to predict the future values of these attributes for every 10 minutes to predict the type of weather that the area could experience using Zambretti algorithm.
  Weather Prediction with help of implementation of the Zambretti Algorithm.
  
  **METHODOLOGY:**
